@@ -1,0 +1,27 @@
+# Codigos no publicados
+06 - Rasterio - Explorar una Imagen Satelital.ipynb
+
+# Videos
+*.mkv
+*.mp4
+*.m4a
+
+# Checkpoint
+.ipynb_checkpoints
+
+# Carpetas
+01 - Java Para Dummies - Introducción y Conceptos Generales (Variables, Condicionales y Ciclos)
+09 - Python Para Dummies - Ejercicio de Análisis de Datos de Casos COVID-19 en Colombia
+inventwithpython_es
+
+# Imagenes
+*.png
+
+# Codigos de Apoyo
+*.txt
+
+# Presentaciones
+*.pptx
+
+# Comprimidos
+*.zip
