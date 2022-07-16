@@ -12,6 +12,6 @@
 - **[`Twitter`](https://twitter.com/IngJuanMaSuarez)**
 - **[`Linkedin`](https://linkedin.com/in/IngJuanMaSuarez)**
 - **[`Academia`](https://udistrital.academia.edu/IngJuanMaSuarez)**
-- **[`YouTube`](https://www.youtube.com/channel/UC4CNTt2aXvMKmxNXQFtTrAA)**
+- **[`YouTube`](https://www.youtube.com/c/IngJuanMaSuarez)**
 
 <br>
