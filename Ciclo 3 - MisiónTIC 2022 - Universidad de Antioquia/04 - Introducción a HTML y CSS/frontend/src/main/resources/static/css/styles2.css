@@ -1,0 +1,34 @@
+h1 {
+    color:red;
+}
+
+h2 {
+    background-color: blue;
+    color: white;
+}
+
+h4 {
+    padding: 25px;
+    border: 5px solid black;
+    margin: 15px;
+}
+
+.otro-parrafo {
+    color:green
+}
+
+.contenedor-principal{
+    display: flex;
+}
+
+.caja1 {
+    background-color: blue;
+}
+
+.caja2 {
+    background-color: red;
+}
+
+.caja3 {
+    background-color: green;
+}
