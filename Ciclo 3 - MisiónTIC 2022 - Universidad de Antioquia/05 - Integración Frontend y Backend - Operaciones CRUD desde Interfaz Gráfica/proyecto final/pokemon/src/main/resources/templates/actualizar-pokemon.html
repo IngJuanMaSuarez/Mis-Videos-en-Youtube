@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <form th:action="@{/pokemon/actualizar/{id} (id = ${pokemon.id})}" method="post">
+
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" th:field="${pokemon.nombre}">
+
+        <label for="vida">Vida</label>
+        <input type="number" id="vida" th:field="${pokemon.vida}">
+
+        <label for="defensa">Defensa</label>
+        <input type="number" id="defensa" th:field="${pokemon.defensa}">
+
+        <label for="ataque">Ataque</label>
+        <input type="number" id="ataque" th:field="${pokemon.ataque}">
+
+        <label for="tipo">Tipo</label>
+        <input type="text" id="tipo" th:field="${pokemon.tipo}">
+
+        <label for="entrenador">Entrenador ID</label>
+        <input type=number id="entrenador" th:field="${pokemon.entrenador.id}">
+
+        <input type="submit" value="Actualizar Pokemon">
+
+    </form>
+</body>
+</html>
