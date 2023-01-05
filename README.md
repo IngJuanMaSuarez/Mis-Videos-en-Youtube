@@ -1,4 +1,6 @@
-## Links a las listas de reproducción de las clases en YouTube
+# Mis Videos en YouTube
+
+## Links a las listas de reproducción y videos en YouTube de las clases y cursos que he compartido
 
 <table style="width:100%">
 <tr>
