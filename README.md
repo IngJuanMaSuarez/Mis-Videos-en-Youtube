@@ -1,12 +1,38 @@
-## Mis Videos en Youtube
+## Links a las listas de reproducción de las clases en YouTube
 
-
-### Links a las listas de reproducción en YouTube
-
-[Python Para Dummies](https://www.youtube.com/playlist?list=PL_YyCdnLDJAjhwcIC0kD6FNCdi34JK9EZ) 🚀🐍<br>
-[Java Para Dummies](https://www.youtube.com/playlist?list=PL_YyCdnLDJAjjxyMaXKfJlVScebm0EnF6) 🔥👾<br>
-[GeoPandas](https://www.youtube.com/playlist?list=PL_YyCdnLDJAinPCjURIS-Yr5FLpr2AyAO) 🌎🐼<br>
-
-### Redes Sociales
-
-<p align="left"> <a href="https://www.github.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/Nfw6_mWWslc">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/python_para_dummies.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/oEJbZx1dORk">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/java_para_dummies.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/vV9zscTerbk">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/java_para_dummies2.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/DfPAEdD7Cjg">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/geopandas_para_dummies.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/oVEUcYKemXQ">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/postgis_para_dummies.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/KQqI8rhlY1g">
+<img src="">
+</a>
+</td>
+</tr>
+</table>
