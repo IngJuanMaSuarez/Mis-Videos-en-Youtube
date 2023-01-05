@@ -31,7 +31,7 @@
 </td>
 <td>
 <a href="https://youtu.be/KQqI8rhlY1g">
-<img src="">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/presentaciones.jpg">
 </a>
 </td>
 </tr>
