@@ -24,7 +24,7 @@
 </a>
 </td>
 <td>
-  <b>Java para Dummies Segunda Parte</b>
+  <b>Java para Dummies 2da Parte</b>
 <a href="https://youtu.be/vV9zscTerbk">
 <img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/java_para_dummies2.jpg">
 </a>
