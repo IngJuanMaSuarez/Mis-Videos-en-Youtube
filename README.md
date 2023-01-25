@@ -6,6 +6,7 @@
 * [Java para Dummies - MisionTIC 2022](https://github.com/IngJuanMaSuarez/Java-Para-Dummies-MisionTIC2022)
 * [GeoPandas para Dummies](https://github.com/IngJuanMaSuarez/GeoPandas-para-Dummies)
 * [PostGIS para Dummies](https://github.com/IngJuanMaSuarez/PostGIS-para-Dummies)
+* [Librerías JavaScript para Hacer Aplicaciones Web Geográficas para Dummies](https://github.com/IngJuanMaSuarez/Librerias-JavaScript-para-Hacer-Aplicaciones-Web-Geograficas-para-Dummies)
 
 ## Links a los Videos en YouTube
 
@@ -44,9 +45,9 @@
 </a>
 </td>
 <td>
-  <b>Algunas Presentaciones</b>
-<a href="https://youtu.be/KQqI8rhlY1g">
-<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/presentaciones.jpg">
+  <b>Librerías JavaScript para Hacer Aplicaciones Web Geográficas para Dummies</b>
+<a href="https://youtu.be/AyAMKEPxnHc">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/librerias_javascript_para_apps_geograficas.jpg">
 </a>
 </td>
 </tr>
