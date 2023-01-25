@@ -47,7 +47,7 @@
 <td>
   <b>Librerías JavaScript para Hacer Aplicaciones Web Geográficas para Dummies</b>
 <a href="https://youtu.be/AyAMKEPxnHc">
-<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/librerias_javascript_para_apps_geograficas.jpg">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/librerias_javascript_para_apps_geograficas.png">
 </a>
 </td>
 </tr>
