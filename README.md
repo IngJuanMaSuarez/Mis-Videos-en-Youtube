@@ -7,6 +7,7 @@
 * [GeoPandas para Dummies](https://github.com/IngJuanMaSuarez/GeoPandas-para-Dummies)
 * [PostGIS para Dummies](https://github.com/IngJuanMaSuarez/PostGIS-para-Dummies)
 * [Librerías JavaScript para Hacer Aplicaciones Web Geográficas para Dummies](https://github.com/IngJuanMaSuarez/Librerias-JavaScript-para-Hacer-Aplicaciones-Web-Geograficas-para-Dummies)
+* [Análisis Ráster con Python para Dummies](https://github.com/IngJuanMaSuarez/Analisis-Raster-con-Python-para-Dummies)
 
 ## Links a los Videos en YouTube
 
@@ -51,4 +52,20 @@
 </a>
 </td>
 </tr>
+
+
+<tr>
+<td>
+  <b>Análisis Ráster con Python para Dummies</b>
+<a href="https://youtu.be/TuIEF9gcMfI">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/analisis_raster_con_python.png">
+</a>
+</td>
+<td>  
+</td>
+<td>
+</td>
+</tr>
+
+
 </table>
