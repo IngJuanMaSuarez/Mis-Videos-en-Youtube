@@ -37,7 +37,7 @@
 <td>
   <b>GeoPandas para Dummies</b>
 <a href="https://youtu.be/DfPAEdD7Cjg">
-<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/geopandas_para_dummies.jpg">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/geopandas_para_dummies.png">
 </a>
 </td>
 <td>
