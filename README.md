@@ -17,7 +17,7 @@
 <td>
   <b>Python para Dummies</b>
 <a href="https://youtu.be/Nfw6_mWWslc">
-<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/python_para_dummies.jpg">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/python_para_dummies.png">
 </a>
 </td>
 <td>
