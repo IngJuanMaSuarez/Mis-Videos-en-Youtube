@@ -23,13 +23,13 @@
 <td>
   <b>Java para Dummies</b>
 <a href="https://youtu.be/oEJbZx1dORk">
-<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/java_para_dummies.jpg">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/java_para_dummies.png">
 </a>
 </td>
 <td>
   <b>Java para Dummies 2da Parte</b>
 <a href="https://youtu.be/vV9zscTerbk">
-<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/java_para_dummies2.jpg">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/java_para_dummies2.png">
 </a>
 </td>
 </tr>
