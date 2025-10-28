@@ -43,7 +43,7 @@
 <td>
   <b>PostGIS para Dummies</b>
 <a href="https://youtu.be/oVEUcYKemXQ">
-<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/postgis_para_dummies.jpg">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/postgis_para_dummies.png">
 </a>
 </td>
 <td>
