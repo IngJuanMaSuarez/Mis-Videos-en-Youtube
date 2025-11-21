@@ -71,7 +71,7 @@
 <td>
   <b>Otras Herramientas</b>
 <a href="https://youtu.be/NPi3sYGlPIs?si=1RQAjDAvMZdUgtwY">
-<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/otras_herramientas.png">
+<img src="https://raw.githubusercontent.com/IngJuanMaSuarez/Mis-Videos-en-Youtube/main/Imagenes/contenedores_inteligencia_artificial.png">
 </a>
 </td>
 </tr>
