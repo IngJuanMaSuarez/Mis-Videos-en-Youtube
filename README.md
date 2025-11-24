@@ -9,6 +9,7 @@
 * [Librerías JavaScript para Hacer Aplicaciones Web Geográficas para Dummies](https://github.com/IngJuanMaSuarez/Librerias-JavaScript-para-Hacer-Aplicaciones-Web-Geograficas-para-Dummies)
 * [Análisis Ráster con Python para Dummies](https://github.com/IngJuanMaSuarez/Analisis-Raster-con-Python-para-Dummies)
 * [APIs Geográficas para Dummies](https://github.com/IngJuanMaSuarez/APis-Geograficas-para-Dummies)
+* [Contenedores e Inteligencia Artificial para ummies](https://github.com/IngJuanMaSuarez/Contenedores-e-Inteligencia-Artificial-para-Dummies)
 
 ## Links a los Videos en YouTube
 
